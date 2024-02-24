@@ -1,0 +1,13 @@
+[package]
+name = "synthetic_environment"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+grid = "0.13.*"
+noise = "0.8.*"
+show-image = "0.13.*"
+glam = "0.25.*"
+
